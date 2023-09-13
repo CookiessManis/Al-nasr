@@ -629,6 +629,30 @@ video {
   margin-top: 11rem;
 }
 
+.ml-\[150px\] {
+  margin-left: 150px;
+}
+
+.ml-\[100px\] {
+  margin-left: 100px;
+}
+
+.ml-\[120px\] {
+  margin-left: 120px;
+}
+
+.ml-\[140px\] {
+  margin-left: 140px;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.inline {
+  display: inline;
+}
+
 .flex {
   display: flex;
 }
